@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Freddy Rengel</h1>
-<h3 align="center">Soy un Javascript con mucha pasión</h3>
+<h3 align="center">Soy un Javascript Developer con mucha pasión</h3>
 
 - 💬 Ask me about **html, css, javascript, react, vue, nodejs**
 
